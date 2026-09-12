@@ -12,3 +12,4 @@ Push this directory to a GitHub repository and import it into Vercel. Select **O
 
 The landing page is in `index.html`, with styling in `styles.css`. To use another supplied logo, change the image and favicon paths in `index.html` (and the image width and height to match its SVG).
 # nerf-war-soc-site
+# nerf-war-soc-site
